@@ -24,12 +24,12 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/HaoranWang-Tony/tank-battle.git
+git clone https://github.com/wrh888999-wq/tank-battle.git
 ```
 
 2. 直接用浏览器打开 `index.html` 即可开始游戏！
 
-或者直接访问在线演示：[GitHub Pages](https://HaoranWang-Tony.github.io/tank-battle)
+或者直接访问在线演示：[GitHub Pages](https://wrh888999-wq.github.io/tank-battle)
 
 ## 📂 项目结构
 
